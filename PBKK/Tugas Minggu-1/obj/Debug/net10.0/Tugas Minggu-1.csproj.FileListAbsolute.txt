@@ -1,0 +1,18 @@
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\bin\Debug\net10.0\Tugas Minggu-1.exe
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\bin\Debug\net10.0\Tugas Minggu-1.deps.json
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\bin\Debug\net10.0\Tugas Minggu-1.runtimeconfig.json
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\bin\Debug\net10.0\Tugas Minggu-1.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\bin\Debug\net10.0\Tugas Minggu-1.pdb
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Minggu-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Minggu-1.AssemblyInfoInputs.cache
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Minggu-1.AssemblyInfo.cs
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Minggu-1.csproj.CoreCompileInputs.cache
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Minggu-1.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\refint\Tugas Minggu-1.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Minggu-1.pdb
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Minggu-1.genruntimeconfig.cache
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\ref\Tugas Minggu-1.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Minggu-1.csproj.AssemblyReference.cache
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\bin\Debug\net10.0\Spectre.Console.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\bin\Debug\net10.0\Spectre.Console.Ansi.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\Tugas Minggu-1\obj\Debug\net10.0\Tugas Mi.91BA662E.Up2Date

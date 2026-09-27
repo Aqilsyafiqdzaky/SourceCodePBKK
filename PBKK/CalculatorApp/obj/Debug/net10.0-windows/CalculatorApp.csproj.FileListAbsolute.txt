@@ -1,0 +1,16 @@
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.exe
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.deps.json
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.runtimeconfig.json
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\bin\Debug\net10.0-windows\CalculatorApp.pdb
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.Form1.resources
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\refint\CalculatorApp.dll
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.pdb
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\Users\aqil syafiq\Documents\KULIAH\SEMESTER 5\PBKK\CalculatorApp\obj\Debug\net10.0-windows\ref\CalculatorApp.dll
